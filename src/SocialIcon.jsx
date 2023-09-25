@@ -4,7 +4,7 @@ const SocialIcon = (props) => {
   return (
   <>
     <a href={props.link}>
-    <img src={props.source} className='m-2 icons'   width={25} height={25} />
+    <img src={props.source} className='m-2 icons' alt="img"  width={25} height={25} />
     </a>
   </>
   )
