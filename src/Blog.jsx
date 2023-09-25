@@ -124,7 +124,7 @@ const Blog = () => {
                 </div>
                 <div className='footeritem m-5'>
                     <FooterHeading name="Connect with us" />
-                    <div className='d-flex'>
+                    <div className='d-flex justify-content-center'>
                         <SocialIcon source="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-512.png"  link="https://www.twitter.com/lejhro"/>
                         <SocialIcon source="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png"  link="https://www.facebook.com/lejhro"/>
                         <SocialIcon source="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" link="https://www.linkedin.com/company/lejhro" />
